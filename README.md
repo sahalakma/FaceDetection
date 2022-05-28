@@ -1,3 +1,19 @@
+# Website Working
+
+Steps ----
+
+1 - Copy any Image Link from Internet.
+
+2 - Paste the Image Link in Our Website 
+
+3 - Click "Detect"
+
+4 - If Your Image Contains Face Picture then You got the Face Selected.
+
+Drawback (Can't Detect more than one Face from a Single Picture)
+
+##Clarifai Face Detection API is Used for Detecting Face in Images.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
